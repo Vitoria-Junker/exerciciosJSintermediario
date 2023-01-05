@@ -1,0 +1,19 @@
+.azul{
+    background-color: blue;
+
+}
+.vermelho{
+    background-color: red;
+}
+.quadrado {
+    width: 200px;
+    height: 200px;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+button {
+    width: 200px;
+}
